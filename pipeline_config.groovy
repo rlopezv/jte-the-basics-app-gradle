@@ -1,6 +1,6 @@
 jte{ 
     allow_scm_jenkinsfile = false
-    pipeline_template = "custom_template"
+    pipeline_template = "custom_pipeline"
 }
 
 libraries{
